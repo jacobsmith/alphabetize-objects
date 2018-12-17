@@ -1,0 +1,22 @@
+{
+  "name": "alphabetize-objects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "scripts": {
+    "test": "mocha tests/**/*.js"
+  },
+  "author": "Jacob Smith <jacob.wesley.smith@gmail.com> (https://github.com/jacobsmith)",
+  "license": "ISC"
+}
